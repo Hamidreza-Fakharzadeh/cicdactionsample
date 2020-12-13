@@ -3,6 +3,16 @@
       margin: auto;
       
 }
-.wrapper-intro {
-      margin: 0 auto;
+.cont-intro {
+      height: 100vh;
 }
+/* .wrapper-intro {
+      justify-content: center;
+}
+.intro-text {
+      margin: auto;
+} */
+.navbar-nav > li{
+      padding-left:30px;
+      padding-right:30px;
+    }
