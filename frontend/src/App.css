@@ -3,9 +3,10 @@
       margin: auto;
       
 }
-.cont-intro {
-      height: 100vh;
+.cont-nav {
+      font-size: 13px;
 }
+
 /* .wrapper-intro {
       justify-content: center;
 }
@@ -16,3 +17,31 @@
       padding-left:30px;
       padding-right:30px;
     }
+    .intro-id {
+      height: 100vh;
+}
+.about-id {
+      height: 100vh;
+}
+
+
+
+
+  /* .card-img{
+      width: 100%!important;
+      height: 200px!important;
+      object-fit: cover;
+   }
+   @media (min-width: 576px) {
+      card-columns {
+            column-count: 3;
+            -webkit-column-gap: 1.25rem;
+            -moz-column-gap: 1.25rem;
+            grid-column-gap: 1.25rem;
+            column-gap: 1.25rem;
+            orphans: 1;
+            widows: 1;
+        }
+   } */
+   
+   

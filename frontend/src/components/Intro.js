@@ -3,7 +3,7 @@ import pic from '../images/pic.png'
 
 function Intro() {
   return (
-    <div className="">
+    <div id="intro-id">
       <div className="cont-intro row align-items-center justify-content-center">
         <div className="wrapper-intro col">
           <div className="d-flex justify-content-center col">

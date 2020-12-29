@@ -2,7 +2,7 @@ import React from 'react'
 
 function About() {
       return (
-            <div className="jumbotron">
+            <div className="jumbotron" id="about-id">
                   <h1 className="display-4">HERE I AM</h1>
                   <p className="lead">I am Junior Full Stack web developer and I based in London, UK.<br />
 					I am looking for full-stack developer roles and available for interviews any time.<br />
